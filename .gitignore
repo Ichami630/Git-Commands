@@ -1,0 +1,4 @@
+secret.txt
+
+# to ignore files based on their file extension use the wildcard symbol
+#*.txt
